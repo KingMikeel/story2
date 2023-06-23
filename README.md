@@ -1,1 +1,3 @@
-# story2
+
+# story2 just learning git nothing really exciting
+
